@@ -1,0 +1,683 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\DaoNuHoangLyLy_2123110414\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2393DF03-2970-41CE-A093-AD028D0F2D61}|DaoNuHoangLyLy_2123110414\\DaoNuHoangLyLy_2123110414.csproj|d:\\daonuhoanglyly_2123110414\\daonuhoanglyly_2123110414\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2393DF03-2970-41CE-A093-AD028D0F2D61}|DaoNuHoangLyLy_2123110414\\DaoNuHoangLyLy_2123110414.csproj|solutionrelative:daonuhoanglyly_2123110414\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\DaoNuHoangLyLy_2123110414\\DaoNuHoangLyLy_2123110414\\Migrations\\20260403170041_InitClinicBookingApi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DaoNuHoangLyLy_2123110414\\Migrations\\20260403170041_InitClinicBookingApi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2393DF03-2970-41CE-A093-AD028D0F2D61}|DaoNuHoangLyLy_2123110414\\DaoNuHoangLyLy_2123110414.csproj|d:\\daonuhoanglyly_2123110414\\daonuhoanglyly_2123110414\\dtos\\createscheduledtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2393DF03-2970-41CE-A093-AD028D0F2D61}|DaoNuHoangLyLy_2123110414\\DaoNuHoangLyLy_2123110414.csproj|solutionrelative:daonuhoanglyly_2123110414\\dtos\\createscheduledtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2393DF03-2970-41CE-A093-AD028D0F2D61}|DaoNuHoangLyLy_2123110414\\DaoNuHoangLyLy_2123110414.csproj|d:\\daonuhoanglyly_2123110414\\daonuhoanglyly_2123110414\\dtos\\createdoctordtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2393DF03-2970-41CE-A093-AD028D0F2D61}|DaoNuHoangLyLy_2123110414\\DaoNuHoangLyLy_2123110414.csproj|solutionrelative:daonuhoanglyly_2123110414\\dtos\\createdoctordtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2393DF03-2970-41CE-A093-AD028D0F2D61}|DaoNuHoangLyLy_2123110414\\DaoNuHoangLyLy_2123110414.csproj|d:\\daonuhoanglyly_2123110414\\daonuhoanglyly_2123110414\\controllers\\schedulecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2393DF03-2970-41CE-A093-AD028D0F2D61}|DaoNuHoangLyLy_2123110414\\DaoNuHoangLyLy_2123110414.csproj|solutionrelative:daonuhoanglyly_2123110414\\controllers\\schedulecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2393DF03-2970-41CE-A093-AD028D0F2D61}|DaoNuHoangLyLy_2123110414\\DaoNuHoangLyLy_2123110414.csproj|d:\\daonuhoanglyly_2123110414\\daonuhoanglyly_2123110414\\services\\scheduleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2393DF03-2970-41CE-A093-AD028D0F2D61}|DaoNuHoangLyLy_2123110414\\DaoNuHoangLyLy_2123110414.csproj|solutionrelative:daonuhoanglyly_2123110414\\services\\scheduleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2393DF03-2970-41CE-A093-AD028D0F2D61}|DaoNuHoangLyLy_2123110414\\DaoNuHoangLyLy_2123110414.csproj|d:\\daonuhoanglyly_2123110414\\daonuhoanglyly_2123110414\\services\\ischeduleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2393DF03-2970-41CE-A093-AD028D0F2D61}|DaoNuHoangLyLy_2123110414\\DaoNuHoangLyLy_2123110414.csproj|solutionrelative:daonuhoanglyly_2123110414\\services\\ischeduleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2393DF03-2970-41CE-A093-AD028D0F2D61}|DaoNuHoangLyLy_2123110414\\DaoNuHoangLyLy_2123110414.csproj|d:\\daonuhoanglyly_2123110414\\daonuhoanglyly_2123110414\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2393DF03-2970-41CE-A093-AD028D0F2D61}|DaoNuHoangLyLy_2123110414\\DaoNuHoangLyLy_2123110414.csproj|solutionrelative:daonuhoanglyly_2123110414\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2393DF03-2970-41CE-A093-AD028D0F2D61}|DaoNuHoangLyLy_2123110414\\DaoNuHoangLyLy_2123110414.csproj|d:\\daonuhoanglyly_2123110414\\daonuhoanglyly_2123110414\\controllers\\appointmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2393DF03-2970-41CE-A093-AD028D0F2D61}|DaoNuHoangLyLy_2123110414\\DaoNuHoangLyLy_2123110414.csproj|solutionrelative:daonuhoanglyly_2123110414\\controllers\\appointmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2393DF03-2970-41CE-A093-AD028D0F2D61}|DaoNuHoangLyLy_2123110414\\DaoNuHoangLyLy_2123110414.csproj|d:\\daonuhoanglyly_2123110414\\daonuhoanglyly_2123110414\\controllers\\doctorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2393DF03-2970-41CE-A093-AD028D0F2D61}|DaoNuHoangLyLy_2123110414\\DaoNuHoangLyLy_2123110414.csproj|solutionrelative:daonuhoanglyly_2123110414\\controllers\\doctorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2393DF03-2970-41CE-A093-AD028D0F2D61}|DaoNuHoangLyLy_2123110414\\DaoNuHoangLyLy_2123110414.csproj|d:\\daonuhoanglyly_2123110414\\daonuhoanglyly_2123110414\\controllers\\specialtycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2393DF03-2970-41CE-A093-AD028D0F2D61}|DaoNuHoangLyLy_2123110414\\DaoNuHoangLyLy_2123110414.csproj|solutionrelative:daonuhoanglyly_2123110414\\controllers\\specialtycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2393DF03-2970-41CE-A093-AD028D0F2D61}|DaoNuHoangLyLy_2123110414\\DaoNuHoangLyLy_2123110414.csproj|d:\\daonuhoanglyly_2123110414\\daonuhoanglyly_2123110414\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2393DF03-2970-41CE-A093-AD028D0F2D61}|DaoNuHoangLyLy_2123110414\\DaoNuHoangLyLy_2123110414.csproj|solutionrelative:daonuhoanglyly_2123110414\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2393DF03-2970-41CE-A093-AD028D0F2D61}|DaoNuHoangLyLy_2123110414\\DaoNuHoangLyLy_2123110414.csproj|d:\\daonuhoanglyly_2123110414\\daonuhoanglyly_2123110414\\services\\appointmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2393DF03-2970-41CE-A093-AD028D0F2D61}|DaoNuHoangLyLy_2123110414\\DaoNuHoangLyLy_2123110414.csproj|solutionrelative:daonuhoanglyly_2123110414\\services\\appointmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2393DF03-2970-41CE-A093-AD028D0F2D61}|DaoNuHoangLyLy_2123110414\\DaoNuHoangLyLy_2123110414.csproj|d:\\daonuhoanglyly_2123110414\\daonuhoanglyly_2123110414\\services\\iappointmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2393DF03-2970-41CE-A093-AD028D0F2D61}|DaoNuHoangLyLy_2123110414\\DaoNuHoangLyLy_2123110414.csproj|solutionrelative:daonuhoanglyly_2123110414\\services\\iappointmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2393DF03-2970-41CE-A093-AD028D0F2D61}|DaoNuHoangLyLy_2123110414\\DaoNuHoangLyLy_2123110414.csproj|d:\\daonuhoanglyly_2123110414\\daonuhoanglyly_2123110414\\services\\timeslotservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2393DF03-2970-41CE-A093-AD028D0F2D61}|DaoNuHoangLyLy_2123110414\\DaoNuHoangLyLy_2123110414.csproj|solutionrelative:daonuhoanglyly_2123110414\\services\\timeslotservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2393DF03-2970-41CE-A093-AD028D0F2D61}|DaoNuHoangLyLy_2123110414\\DaoNuHoangLyLy_2123110414.csproj|d:\\daonuhoanglyly_2123110414\\daonuhoanglyly_2123110414\\services\\itimeslotservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2393DF03-2970-41CE-A093-AD028D0F2D61}|DaoNuHoangLyLy_2123110414\\DaoNuHoangLyLy_2123110414.csproj|solutionrelative:daonuhoanglyly_2123110414\\services\\itimeslotservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2393DF03-2970-41CE-A093-AD028D0F2D61}|DaoNuHoangLyLy_2123110414\\DaoNuHoangLyLy_2123110414.csproj|d:\\daonuhoanglyly_2123110414\\daonuhoanglyly_2123110414\\services\\doctorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2393DF03-2970-41CE-A093-AD028D0F2D61}|DaoNuHoangLyLy_2123110414\\DaoNuHoangLyLy_2123110414.csproj|solutionrelative:daonuhoanglyly_2123110414\\services\\doctorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2393DF03-2970-41CE-A093-AD028D0F2D61}|DaoNuHoangLyLy_2123110414\\DaoNuHoangLyLy_2123110414.csproj|d:\\daonuhoanglyly_2123110414\\daonuhoanglyly_2123110414\\services\\idoctorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2393DF03-2970-41CE-A093-AD028D0F2D61}|DaoNuHoangLyLy_2123110414\\DaoNuHoangLyLy_2123110414.csproj|solutionrelative:daonuhoanglyly_2123110414\\services\\idoctorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2393DF03-2970-41CE-A093-AD028D0F2D61}|DaoNuHoangLyLy_2123110414\\DaoNuHoangLyLy_2123110414.csproj|d:\\daonuhoanglyly_2123110414\\daonuhoanglyly_2123110414\\services\\specialtyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2393DF03-2970-41CE-A093-AD028D0F2D61}|DaoNuHoangLyLy_2123110414\\DaoNuHoangLyLy_2123110414.csproj|solutionrelative:daonuhoanglyly_2123110414\\services\\specialtyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2393DF03-2970-41CE-A093-AD028D0F2D61}|DaoNuHoangLyLy_2123110414\\DaoNuHoangLyLy_2123110414.csproj|d:\\daonuhoanglyly_2123110414\\daonuhoanglyly_2123110414\\services\\ispecialtyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2393DF03-2970-41CE-A093-AD028D0F2D61}|DaoNuHoangLyLy_2123110414\\DaoNuHoangLyLy_2123110414.csproj|solutionrelative:daonuhoanglyly_2123110414\\services\\ispecialtyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2393DF03-2970-41CE-A093-AD028D0F2D61}|DaoNuHoangLyLy_2123110414\\DaoNuHoangLyLy_2123110414.csproj|d:\\daonuhoanglyly_2123110414\\daonuhoanglyly_2123110414\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2393DF03-2970-41CE-A093-AD028D0F2D61}|DaoNuHoangLyLy_2123110414\\DaoNuHoangLyLy_2123110414.csproj|solutionrelative:daonuhoanglyly_2123110414\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2393DF03-2970-41CE-A093-AD028D0F2D61}|DaoNuHoangLyLy_2123110414\\DaoNuHoangLyLy_2123110414.csproj|d:\\daonuhoanglyly_2123110414\\daonuhoanglyly_2123110414\\services\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2393DF03-2970-41CE-A093-AD028D0F2D61}|DaoNuHoangLyLy_2123110414\\DaoNuHoangLyLy_2123110414.csproj|solutionrelative:daonuhoanglyly_2123110414\\services\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2393DF03-2970-41CE-A093-AD028D0F2D61}|DaoNuHoangLyLy_2123110414\\DaoNuHoangLyLy_2123110414.csproj|d:\\daonuhoanglyly_2123110414\\daonuhoanglyly_2123110414\\services\\serviceresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2393DF03-2970-41CE-A093-AD028D0F2D61}|DaoNuHoangLyLy_2123110414\\DaoNuHoangLyLy_2123110414.csproj|solutionrelative:daonuhoanglyly_2123110414\\services\\serviceresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2393DF03-2970-41CE-A093-AD028D0F2D61}|DaoNuHoangLyLy_2123110414\\DaoNuHoangLyLy_2123110414.csproj|d:\\daonuhoanglyly_2123110414\\daonuhoanglyly_2123110414\\dtos\\updatespecialtydtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2393DF03-2970-41CE-A093-AD028D0F2D61}|DaoNuHoangLyLy_2123110414\\DaoNuHoangLyLy_2123110414.csproj|solutionrelative:daonuhoanglyly_2123110414\\dtos\\updatespecialtydtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2393DF03-2970-41CE-A093-AD028D0F2D61}|DaoNuHoangLyLy_2123110414\\DaoNuHoangLyLy_2123110414.csproj|d:\\daonuhoanglyly_2123110414\\daonuhoanglyly_2123110414\\dtos\\createspecialtydtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2393DF03-2970-41CE-A093-AD028D0F2D61}|DaoNuHoangLyLy_2123110414\\DaoNuHoangLyLy_2123110414.csproj|solutionrelative:daonuhoanglyly_2123110414\\dtos\\createspecialtydtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2393DF03-2970-41CE-A093-AD028D0F2D61}|DaoNuHoangLyLy_2123110414\\DaoNuHoangLyLy_2123110414.csproj|d:\\daonuhoanglyly_2123110414\\daonuhoanglyly_2123110414\\dtos\\authresponsedtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2393DF03-2970-41CE-A093-AD028D0F2D61}|DaoNuHoangLyLy_2123110414\\DaoNuHoangLyLy_2123110414.csproj|solutionrelative:daonuhoanglyly_2123110414\\dtos\\authresponsedtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2393DF03-2970-41CE-A093-AD028D0F2D61}|DaoNuHoangLyLy_2123110414\\DaoNuHoangLyLy_2123110414.csproj|d:\\daonuhoanglyly_2123110414\\daonuhoanglyly_2123110414\\dtos\\bookappointmentdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2393DF03-2970-41CE-A093-AD028D0F2D61}|DaoNuHoangLyLy_2123110414\\DaoNuHoangLyLy_2123110414.csproj|solutionrelative:daonuhoanglyly_2123110414\\dtos\\bookappointmentdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2393DF03-2970-41CE-A093-AD028D0F2D61}|DaoNuHoangLyLy_2123110414\\DaoNuHoangLyLy_2123110414.csproj|d:\\daonuhoanglyly_2123110414\\daonuhoanglyly_2123110414\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2393DF03-2970-41CE-A093-AD028D0F2D61}|DaoNuHoangLyLy_2123110414\\DaoNuHoangLyLy_2123110414.csproj|solutionrelative:daonuhoanglyly_2123110414\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2393DF03-2970-41CE-A093-AD028D0F2D61}|DaoNuHoangLyLy_2123110414\\DaoNuHoangLyLy_2123110414.csproj|d:\\daonuhoanglyly_2123110414\\daonuhoanglyly_2123110414\\dtos\\registerdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2393DF03-2970-41CE-A093-AD028D0F2D61}|DaoNuHoangLyLy_2123110414\\DaoNuHoangLyLy_2123110414.csproj|solutionrelative:daonuhoanglyly_2123110414\\dtos\\registerdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2393DF03-2970-41CE-A093-AD028D0F2D61}|DaoNuHoangLyLy_2123110414\\DaoNuHoangLyLy_2123110414.csproj|d:\\daonuhoanglyly_2123110414\\daonuhoanglyly_2123110414\\dtos\\logindtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2393DF03-2970-41CE-A093-AD028D0F2D61}|DaoNuHoangLyLy_2123110414\\DaoNuHoangLyLy_2123110414.csproj|solutionrelative:daonuhoanglyly_2123110414\\dtos\\logindtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2393DF03-2970-41CE-A093-AD028D0F2D61}|DaoNuHoangLyLy_2123110414\\DaoNuHoangLyLy_2123110414.csproj|d:\\daonuhoanglyly_2123110414\\daonuhoanglyly_2123110414\\models\\timeslot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2393DF03-2970-41CE-A093-AD028D0F2D61}|DaoNuHoangLyLy_2123110414\\DaoNuHoangLyLy_2123110414.csproj|solutionrelative:daonuhoanglyly_2123110414\\models\\timeslot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2393DF03-2970-41CE-A093-AD028D0F2D61}|DaoNuHoangLyLy_2123110414\\DaoNuHoangLyLy_2123110414.csproj|d:\\daonuhoanglyly_2123110414\\daonuhoanglyly_2123110414\\models\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2393DF03-2970-41CE-A093-AD028D0F2D61}|DaoNuHoangLyLy_2123110414\\DaoNuHoangLyLy_2123110414.csproj|solutionrelative:daonuhoanglyly_2123110414\\models\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2393DF03-2970-41CE-A093-AD028D0F2D61}|DaoNuHoangLyLy_2123110414\\DaoNuHoangLyLy_2123110414.csproj|d:\\daonuhoanglyly_2123110414\\daonuhoanglyly_2123110414\\models\\patientprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2393DF03-2970-41CE-A093-AD028D0F2D61}|DaoNuHoangLyLy_2123110414\\DaoNuHoangLyLy_2123110414.csproj|solutionrelative:daonuhoanglyly_2123110414\\models\\patientprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2393DF03-2970-41CE-A093-AD028D0F2D61}|DaoNuHoangLyLy_2123110414\\DaoNuHoangLyLy_2123110414.csproj|d:\\daonuhoanglyly_2123110414\\daonuhoanglyly_2123110414\\models\\doctorprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2393DF03-2970-41CE-A093-AD028D0F2D61}|DaoNuHoangLyLy_2123110414\\DaoNuHoangLyLy_2123110414.csproj|solutionrelative:daonuhoanglyly_2123110414\\models\\doctorprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2393DF03-2970-41CE-A093-AD028D0F2D61}|DaoNuHoangLyLy_2123110414\\DaoNuHoangLyLy_2123110414.csproj|d:\\daonuhoanglyly_2123110414\\daonuhoanglyly_2123110414\\models\\specialty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2393DF03-2970-41CE-A093-AD028D0F2D61}|DaoNuHoangLyLy_2123110414\\DaoNuHoangLyLy_2123110414.csproj|solutionrelative:daonuhoanglyly_2123110414\\models\\specialty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2393DF03-2970-41CE-A093-AD028D0F2D61}|DaoNuHoangLyLy_2123110414\\DaoNuHoangLyLy_2123110414.csproj|d:\\daonuhoanglyly_2123110414\\daonuhoanglyly_2123110414\\models\\systemstatuses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2393DF03-2970-41CE-A093-AD028D0F2D61}|DaoNuHoangLyLy_2123110414\\DaoNuHoangLyLy_2123110414.csproj|solutionrelative:daonuhoanglyly_2123110414\\models\\systemstatuses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2393DF03-2970-41CE-A093-AD028D0F2D61}|DaoNuHoangLyLy_2123110414\\DaoNuHoangLyLy_2123110414.csproj|d:\\daonuhoanglyly_2123110414\\daonuhoanglyly_2123110414\\models\\systemroles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2393DF03-2970-41CE-A093-AD028D0F2D61}|DaoNuHoangLyLy_2123110414\\DaoNuHoangLyLy_2123110414.csproj|solutionrelative:daonuhoanglyly_2123110414\\models\\systemroles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2393DF03-2970-41CE-A093-AD028D0F2D61}|DaoNuHoangLyLy_2123110414\\DaoNuHoangLyLy_2123110414.csproj|d:\\daonuhoanglyly_2123110414\\daonuhoanglyly_2123110414\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2393DF03-2970-41CE-A093-AD028D0F2D61}|DaoNuHoangLyLy_2123110414\\DaoNuHoangLyLy_2123110414.csproj|solutionrelative:daonuhoanglyly_2123110414\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2393DF03-2970-41CE-A093-AD028D0F2D61}|DaoNuHoangLyLy_2123110414\\DaoNuHoangLyLy_2123110414.csproj|d:\\daonuhoanglyly_2123110414\\daonuhoanglyly_2123110414\\models\\doctorschedule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2393DF03-2970-41CE-A093-AD028D0F2D61}|DaoNuHoangLyLy_2123110414\\DaoNuHoangLyLy_2123110414.csproj|solutionrelative:daonuhoanglyly_2123110414\\models\\doctorschedule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "20260403170041_InitClinicBookingApi.cs",
+              "DocumentMoniker": "D:\\DaoNuHoangLyLy_2123110414\\DaoNuHoangLyLy_2123110414\\Migrations\\20260403170041_InitClinicBookingApi.cs",
+              "RelativeDocumentMoniker": "DaoNuHoangLyLy_2123110414\\Migrations\\20260403170041_InitClinicBookingApi.cs",
+              "ToolTip": "D:\\DaoNuHoangLyLy_2123110414\\DaoNuHoangLyLy_2123110414\\Migrations\\20260403170041_InitClinicBookingApi.cs",
+              "RelativeToolTip": "DaoNuHoangLyLy_2123110414\\Migrations\\20260403170041_InitClinicBookingApi.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-03T17:00:41.699Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ScheduleController.cs",
+              "DocumentMoniker": "D:\\DaoNuHoangLyLy_2123110414\\DaoNuHoangLyLy_2123110414\\Controllers\\ScheduleController.cs",
+              "RelativeDocumentMoniker": "DaoNuHoangLyLy_2123110414\\Controllers\\ScheduleController.cs",
+              "ToolTip": "D:\\DaoNuHoangLyLy_2123110414\\DaoNuHoangLyLy_2123110414\\Controllers\\ScheduleController.cs",
+              "RelativeToolTip": "DaoNuHoangLyLy_2123110414\\Controllers\\ScheduleController.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAcwDIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-02T01:41:38.41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\DaoNuHoangLyLy_2123110414\\DaoNuHoangLyLy_2123110414\\Program.cs",
+              "RelativeDocumentMoniker": "DaoNuHoangLyLy_2123110414\\Program.cs",
+              "ToolTip": "D:\\DaoNuHoangLyLy_2123110414\\DaoNuHoangLyLy_2123110414\\Program.cs",
+              "RelativeToolTip": "DaoNuHoangLyLy_2123110414\\Program.cs",
+              "ViewState": "AgIAAF8AAAAAAAAAAAAswG8AAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-02T03:14:43.808Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\DaoNuHoangLyLy_2123110414\\DaoNuHoangLyLy_2123110414\\appsettings.json",
+              "RelativeDocumentMoniker": "DaoNuHoangLyLy_2123110414\\appsettings.json",
+              "ToolTip": "D:\\DaoNuHoangLyLy_2123110414\\DaoNuHoangLyLy_2123110414\\appsettings.json",
+              "RelativeToolTip": "DaoNuHoangLyLy_2123110414\\appsettings.json",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAqwBAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-02T03:15:02.578Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IScheduleService.cs",
+              "DocumentMoniker": "D:\\DaoNuHoangLyLy_2123110414\\DaoNuHoangLyLy_2123110414\\Services\\IScheduleService.cs",
+              "RelativeDocumentMoniker": "DaoNuHoangLyLy_2123110414\\Services\\IScheduleService.cs",
+              "ToolTip": "D:\\DaoNuHoangLyLy_2123110414\\DaoNuHoangLyLy_2123110414\\Services\\IScheduleService.cs",
+              "RelativeToolTip": "DaoNuHoangLyLy_2123110414\\Services\\IScheduleService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-02T01:51:19.429Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ScheduleService.cs",
+              "DocumentMoniker": "D:\\DaoNuHoangLyLy_2123110414\\DaoNuHoangLyLy_2123110414\\Services\\ScheduleService.cs",
+              "RelativeDocumentMoniker": "DaoNuHoangLyLy_2123110414\\Services\\ScheduleService.cs",
+              "ToolTip": "D:\\DaoNuHoangLyLy_2123110414\\DaoNuHoangLyLy_2123110414\\Services\\ScheduleService.cs",
+              "RelativeToolTip": "DaoNuHoangLyLy_2123110414\\Services\\ScheduleService.cs",
+              "ViewState": "AgIAAFoAAAAAAAAAAAAcwHEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-03T09:37:13.589Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CreateDoctorDTOs.cs",
+              "DocumentMoniker": "D:\\DaoNuHoangLyLy_2123110414\\DaoNuHoangLyLy_2123110414\\DTOs\\CreateDoctorDTOs.cs",
+              "RelativeDocumentMoniker": "DaoNuHoangLyLy_2123110414\\DTOs\\CreateDoctorDTOs.cs",
+              "ToolTip": "D:\\DaoNuHoangLyLy_2123110414\\DaoNuHoangLyLy_2123110414\\DTOs\\CreateDoctorDTOs.cs",
+              "RelativeToolTip": "DaoNuHoangLyLy_2123110414\\DTOs\\CreateDoctorDTOs.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-03T09:23:37.15Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CreateScheduleDTOs.cs",
+              "DocumentMoniker": "D:\\DaoNuHoangLyLy_2123110414\\DaoNuHoangLyLy_2123110414\\DTOs\\CreateScheduleDTOs.cs",
+              "RelativeDocumentMoniker": "DaoNuHoangLyLy_2123110414\\DTOs\\CreateScheduleDTOs.cs",
+              "ToolTip": "D:\\DaoNuHoangLyLy_2123110414\\DaoNuHoangLyLy_2123110414\\DTOs\\CreateScheduleDTOs.cs",
+              "RelativeToolTip": "DaoNuHoangLyLy_2123110414\\DTOs\\CreateScheduleDTOs.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAowBUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-02T02:05:10.563Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AppointmentController.cs",
+              "DocumentMoniker": "D:\\DaoNuHoangLyLy_2123110414\\DaoNuHoangLyLy_2123110414\\Controllers\\AppointmentController.cs",
+              "RelativeDocumentMoniker": "DaoNuHoangLyLy_2123110414\\Controllers\\AppointmentController.cs",
+              "ToolTip": "D:\\DaoNuHoangLyLy_2123110414\\DaoNuHoangLyLy_2123110414\\Controllers\\AppointmentController.cs",
+              "RelativeToolTip": "DaoNuHoangLyLy_2123110414\\Controllers\\AppointmentController.cs",
+              "ViewState": "AgIAAIoAAAAAAAAAAAAYwKEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-02T01:42:05.661Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DoctorController.cs",
+              "DocumentMoniker": "D:\\DaoNuHoangLyLy_2123110414\\DaoNuHoangLyLy_2123110414\\Controllers\\DoctorController.cs",
+              "RelativeDocumentMoniker": "DaoNuHoangLyLy_2123110414\\Controllers\\DoctorController.cs",
+              "ToolTip": "D:\\DaoNuHoangLyLy_2123110414\\DaoNuHoangLyLy_2123110414\\Controllers\\DoctorController.cs",
+              "RelativeToolTip": "DaoNuHoangLyLy_2123110414\\Controllers\\DoctorController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-02T01:41:22.19Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SpecialtyController.cs",
+              "DocumentMoniker": "D:\\DaoNuHoangLyLy_2123110414\\DaoNuHoangLyLy_2123110414\\Controllers\\SpecialtyController.cs",
+              "RelativeDocumentMoniker": "DaoNuHoangLyLy_2123110414\\Controllers\\SpecialtyController.cs",
+              "ToolTip": "D:\\DaoNuHoangLyLy_2123110414\\DaoNuHoangLyLy_2123110414\\Controllers\\SpecialtyController.cs",
+              "RelativeToolTip": "DaoNuHoangLyLy_2123110414\\Controllers\\SpecialtyController.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAA1wEkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-02T01:43:29.15Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "D:\\DaoNuHoangLyLy_2123110414\\DaoNuHoangLyLy_2123110414\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "DaoNuHoangLyLy_2123110414\\Controllers\\AuthController.cs",
+              "ToolTip": "D:\\DaoNuHoangLyLy_2123110414\\DaoNuHoangLyLy_2123110414\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "DaoNuHoangLyLy_2123110414\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAYwC0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-03T09:40:13.374Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AppointmentService.cs",
+              "DocumentMoniker": "D:\\DaoNuHoangLyLy_2123110414\\DaoNuHoangLyLy_2123110414\\Services\\AppointmentService.cs",
+              "RelativeDocumentMoniker": "DaoNuHoangLyLy_2123110414\\Services\\AppointmentService.cs",
+              "ToolTip": "D:\\DaoNuHoangLyLy_2123110414\\DaoNuHoangLyLy_2123110414\\Services\\AppointmentService.cs",
+              "RelativeToolTip": "DaoNuHoangLyLy_2123110414\\Services\\AppointmentService.cs",
+              "ViewState": "AgIAAAYBAAAAAAAAAAAYwB0BAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-03T09:39:36.695Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "TimeSlotService.cs",
+              "DocumentMoniker": "D:\\DaoNuHoangLyLy_2123110414\\DaoNuHoangLyLy_2123110414\\Services\\TimeSlotService.cs",
+              "RelativeDocumentMoniker": "DaoNuHoangLyLy_2123110414\\Services\\TimeSlotService.cs",
+              "ToolTip": "D:\\DaoNuHoangLyLy_2123110414\\DaoNuHoangLyLy_2123110414\\Services\\TimeSlotService.cs",
+              "RelativeToolTip": "DaoNuHoangLyLy_2123110414\\Services\\TimeSlotService.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAYwCQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-03T09:37:54.275Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "DoctorService.cs",
+              "DocumentMoniker": "D:\\DaoNuHoangLyLy_2123110414\\DaoNuHoangLyLy_2123110414\\Services\\DoctorService.cs",
+              "RelativeDocumentMoniker": "DaoNuHoangLyLy_2123110414\\Services\\DoctorService.cs",
+              "ToolTip": "D:\\DaoNuHoangLyLy_2123110414\\DaoNuHoangLyLy_2123110414\\Services\\DoctorService.cs",
+              "RelativeToolTip": "DaoNuHoangLyLy_2123110414\\Services\\DoctorService.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAYwFcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-03T09:36:53.017Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "SpecialtyService.cs",
+              "DocumentMoniker": "D:\\DaoNuHoangLyLy_2123110414\\DaoNuHoangLyLy_2123110414\\Services\\SpecialtyService.cs",
+              "RelativeDocumentMoniker": "DaoNuHoangLyLy_2123110414\\Services\\SpecialtyService.cs",
+              "ToolTip": "D:\\DaoNuHoangLyLy_2123110414\\DaoNuHoangLyLy_2123110414\\Services\\SpecialtyService.cs",
+              "RelativeToolTip": "DaoNuHoangLyLy_2123110414\\Services\\SpecialtyService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-03T09:34:09.27Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "D:\\DaoNuHoangLyLy_2123110414\\DaoNuHoangLyLy_2123110414\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "DaoNuHoangLyLy_2123110414\\Services\\AuthService.cs",
+              "ToolTip": "D:\\DaoNuHoangLyLy_2123110414\\DaoNuHoangLyLy_2123110414\\Services\\AuthService.cs",
+              "RelativeToolTip": "DaoNuHoangLyLy_2123110414\\Services\\AuthService.cs",
+              "ViewState": "AgIAAGQAAAAAAAAAAAAYwH4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-03T09:32:31.041Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "D:\\DaoNuHoangLyLy_2123110414\\DaoNuHoangLyLy_2123110414\\Services\\IAuthService.cs",
+              "RelativeDocumentMoniker": "DaoNuHoangLyLy_2123110414\\Services\\IAuthService.cs",
+              "ToolTip": "D:\\DaoNuHoangLyLy_2123110414\\DaoNuHoangLyLy_2123110414\\Services\\IAuthService.cs",
+              "RelativeToolTip": "DaoNuHoangLyLy_2123110414\\Services\\IAuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-03T09:32:06.904Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IAppointmentService.cs",
+              "DocumentMoniker": "D:\\DaoNuHoangLyLy_2123110414\\DaoNuHoangLyLy_2123110414\\Services\\IAppointmentService.cs",
+              "RelativeDocumentMoniker": "DaoNuHoangLyLy_2123110414\\Services\\IAppointmentService.cs",
+              "ToolTip": "D:\\DaoNuHoangLyLy_2123110414\\DaoNuHoangLyLy_2123110414\\Services\\IAppointmentService.cs",
+              "RelativeToolTip": "DaoNuHoangLyLy_2123110414\\Services\\IAppointmentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-02T01:52:27.036Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "UpdateSpecialtyDTOs.cs",
+              "DocumentMoniker": "D:\\DaoNuHoangLyLy_2123110414\\DaoNuHoangLyLy_2123110414\\DTOs\\UpdateSpecialtyDTOs.cs",
+              "RelativeDocumentMoniker": "DaoNuHoangLyLy_2123110414\\DTOs\\UpdateSpecialtyDTOs.cs",
+              "ToolTip": "D:\\DaoNuHoangLyLy_2123110414\\DaoNuHoangLyLy_2123110414\\DTOs\\UpdateSpecialtyDTOs.cs",
+              "RelativeToolTip": "DaoNuHoangLyLy_2123110414\\DTOs\\UpdateSpecialtyDTOs.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-03T09:30:53.726Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ITimeSlotService.cs",
+              "DocumentMoniker": "D:\\DaoNuHoangLyLy_2123110414\\DaoNuHoangLyLy_2123110414\\Services\\ITimeSlotService.cs",
+              "RelativeDocumentMoniker": "DaoNuHoangLyLy_2123110414\\Services\\ITimeSlotService.cs",
+              "ToolTip": "D:\\DaoNuHoangLyLy_2123110414\\DaoNuHoangLyLy_2123110414\\Services\\ITimeSlotService.cs",
+              "RelativeToolTip": "DaoNuHoangLyLy_2123110414\\Services\\ITimeSlotService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-02T01:51:40.118Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "CreateSpecialtyDTOs.cs",
+              "DocumentMoniker": "D:\\DaoNuHoangLyLy_2123110414\\DaoNuHoangLyLy_2123110414\\DTOs\\CreateSpecialtyDTOs.cs",
+              "RelativeDocumentMoniker": "DaoNuHoangLyLy_2123110414\\DTOs\\CreateSpecialtyDTOs.cs",
+              "ToolTip": "D:\\DaoNuHoangLyLy_2123110414\\DaoNuHoangLyLy_2123110414\\DTOs\\CreateSpecialtyDTOs.cs",
+              "RelativeToolTip": "DaoNuHoangLyLy_2123110414\\DTOs\\CreateSpecialtyDTOs.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-03T09:30:09.943Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IDoctorService.cs",
+              "DocumentMoniker": "D:\\DaoNuHoangLyLy_2123110414\\DaoNuHoangLyLy_2123110414\\Services\\IDoctorService.cs",
+              "RelativeDocumentMoniker": "DaoNuHoangLyLy_2123110414\\Services\\IDoctorService.cs",
+              "ToolTip": "D:\\DaoNuHoangLyLy_2123110414\\DaoNuHoangLyLy_2123110414\\Services\\IDoctorService.cs",
+              "RelativeToolTip": "DaoNuHoangLyLy_2123110414\\Services\\IDoctorService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAIwAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-02T01:50:45.07Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "AuthResponseDTOs.cs",
+              "DocumentMoniker": "D:\\DaoNuHoangLyLy_2123110414\\DaoNuHoangLyLy_2123110414\\DTOs\\AuthResponseDTOs.cs",
+              "RelativeDocumentMoniker": "DaoNuHoangLyLy_2123110414\\DTOs\\AuthResponseDTOs.cs",
+              "ToolTip": "D:\\DaoNuHoangLyLy_2123110414\\DaoNuHoangLyLy_2123110414\\DTOs\\AuthResponseDTOs.cs",
+              "RelativeToolTip": "DaoNuHoangLyLy_2123110414\\DTOs\\AuthResponseDTOs.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-03T09:21:13.359Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ISpecialtyService.cs",
+              "DocumentMoniker": "D:\\DaoNuHoangLyLy_2123110414\\DaoNuHoangLyLy_2123110414\\Services\\ISpecialtyService.cs",
+              "RelativeDocumentMoniker": "DaoNuHoangLyLy_2123110414\\Services\\ISpecialtyService.cs",
+              "ToolTip": "D:\\DaoNuHoangLyLy_2123110414\\DaoNuHoangLyLy_2123110414\\Services\\ISpecialtyService.cs",
+              "RelativeToolTip": "DaoNuHoangLyLy_2123110414\\Services\\ISpecialtyService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-02T01:50:00.552Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "TimeSlot.cs",
+              "DocumentMoniker": "D:\\DaoNuHoangLyLy_2123110414\\DaoNuHoangLyLy_2123110414\\Models\\TimeSlot.cs",
+              "RelativeDocumentMoniker": "DaoNuHoangLyLy_2123110414\\Models\\TimeSlot.cs",
+              "ToolTip": "D:\\DaoNuHoangLyLy_2123110414\\DaoNuHoangLyLy_2123110414\\Models\\TimeSlot.cs",
+              "RelativeToolTip": "DaoNuHoangLyLy_2123110414\\Models\\TimeSlot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-02T02:00:04.081Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "LoginDTOs.cs",
+              "DocumentMoniker": "D:\\DaoNuHoangLyLy_2123110414\\DaoNuHoangLyLy_2123110414\\DTOs\\LoginDTOs.cs",
+              "RelativeDocumentMoniker": "DaoNuHoangLyLy_2123110414\\DTOs\\LoginDTOs.cs",
+              "ToolTip": "D:\\DaoNuHoangLyLy_2123110414\\DaoNuHoangLyLy_2123110414\\DTOs\\LoginDTOs.cs",
+              "RelativeToolTip": "DaoNuHoangLyLy_2123110414\\DTOs\\LoginDTOs.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-02T02:03:50.69Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ServiceResult.cs",
+              "DocumentMoniker": "D:\\DaoNuHoangLyLy_2123110414\\DaoNuHoangLyLy_2123110414\\Services\\ServiceResult.cs",
+              "RelativeDocumentMoniker": "DaoNuHoangLyLy_2123110414\\Services\\ServiceResult.cs",
+              "ToolTip": "D:\\DaoNuHoangLyLy_2123110414\\DaoNuHoangLyLy_2123110414\\Services\\ServiceResult.cs",
+              "RelativeToolTip": "DaoNuHoangLyLy_2123110414\\Services\\ServiceResult.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-02T01:52:56.715Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Appointment.cs",
+              "DocumentMoniker": "D:\\DaoNuHoangLyLy_2123110414\\DaoNuHoangLyLy_2123110414\\Models\\Appointment.cs",
+              "RelativeDocumentMoniker": "DaoNuHoangLyLy_2123110414\\Models\\Appointment.cs",
+              "ToolTip": "D:\\DaoNuHoangLyLy_2123110414\\DaoNuHoangLyLy_2123110414\\Models\\Appointment.cs",
+              "RelativeToolTip": "DaoNuHoangLyLy_2123110414\\Models\\Appointment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-02T02:00:36.829Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "D:\\DaoNuHoangLyLy_2123110414\\DaoNuHoangLyLy_2123110414\\Models\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "DaoNuHoangLyLy_2123110414\\Models\\ApplicationUser.cs",
+              "ToolTip": "D:\\DaoNuHoangLyLy_2123110414\\DaoNuHoangLyLy_2123110414\\Models\\ApplicationUser.cs",
+              "RelativeToolTip": "DaoNuHoangLyLy_2123110414\\Models\\ApplicationUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-02T01:54:59.191Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "BookAppointmentDTOs.cs",
+              "DocumentMoniker": "D:\\DaoNuHoangLyLy_2123110414\\DaoNuHoangLyLy_2123110414\\DTOs\\BookAppointmentDTOs.cs",
+              "RelativeDocumentMoniker": "DaoNuHoangLyLy_2123110414\\DTOs\\BookAppointmentDTOs.cs",
+              "ToolTip": "D:\\DaoNuHoangLyLy_2123110414\\DaoNuHoangLyLy_2123110414\\DTOs\\BookAppointmentDTOs.cs",
+              "RelativeToolTip": "DaoNuHoangLyLy_2123110414\\DTOs\\BookAppointmentDTOs.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAiwA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-02T02:06:23.882Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "PatientProfile.cs",
+              "DocumentMoniker": "D:\\DaoNuHoangLyLy_2123110414\\DaoNuHoangLyLy_2123110414\\Models\\PatientProfile.cs",
+              "RelativeDocumentMoniker": "DaoNuHoangLyLy_2123110414\\Models\\PatientProfile.cs",
+              "ToolTip": "D:\\DaoNuHoangLyLy_2123110414\\DaoNuHoangLyLy_2123110414\\Models\\PatientProfile.cs",
+              "RelativeToolTip": "DaoNuHoangLyLy_2123110414\\Models\\PatientProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-02T01:59:13.273Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "DoctorProfile.cs",
+              "DocumentMoniker": "D:\\DaoNuHoangLyLy_2123110414\\DaoNuHoangLyLy_2123110414\\Models\\DoctorProfile.cs",
+              "RelativeDocumentMoniker": "DaoNuHoangLyLy_2123110414\\Models\\DoctorProfile.cs",
+              "ToolTip": "D:\\DaoNuHoangLyLy_2123110414\\DaoNuHoangLyLy_2123110414\\Models\\DoctorProfile.cs",
+              "RelativeToolTip": "DaoNuHoangLyLy_2123110414\\Models\\DoctorProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-02T01:58:46.609Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Specialty.cs",
+              "DocumentMoniker": "D:\\DaoNuHoangLyLy_2123110414\\DaoNuHoangLyLy_2123110414\\Models\\Specialty.cs",
+              "RelativeDocumentMoniker": "DaoNuHoangLyLy_2123110414\\Models\\Specialty.cs",
+              "ToolTip": "D:\\DaoNuHoangLyLy_2123110414\\DaoNuHoangLyLy_2123110414\\Models\\Specialty.cs",
+              "RelativeToolTip": "DaoNuHoangLyLy_2123110414\\Models\\Specialty.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAmwBMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-02T01:56:16.546Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "SystemStatuses.cs",
+              "DocumentMoniker": "D:\\DaoNuHoangLyLy_2123110414\\DaoNuHoangLyLy_2123110414\\Models\\SystemStatuses.cs",
+              "RelativeDocumentMoniker": "DaoNuHoangLyLy_2123110414\\Models\\SystemStatuses.cs",
+              "ToolTip": "D:\\DaoNuHoangLyLy_2123110414\\DaoNuHoangLyLy_2123110414\\Models\\SystemStatuses.cs",
+              "RelativeToolTip": "DaoNuHoangLyLy_2123110414\\Models\\SystemStatuses.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-03T09:14:12.878Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "RegisterDTOs.cs",
+              "DocumentMoniker": "D:\\DaoNuHoangLyLy_2123110414\\DaoNuHoangLyLy_2123110414\\DTOs\\RegisterDTOs.cs",
+              "RelativeDocumentMoniker": "DaoNuHoangLyLy_2123110414\\DTOs\\RegisterDTOs.cs",
+              "ToolTip": "D:\\DaoNuHoangLyLy_2123110414\\DaoNuHoangLyLy_2123110414\\DTOs\\RegisterDTOs.cs",
+              "RelativeToolTip": "DaoNuHoangLyLy_2123110414\\DTOs\\RegisterDTOs.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-02T02:04:31.496Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "SystemRoles.cs",
+              "DocumentMoniker": "D:\\DaoNuHoangLyLy_2123110414\\DaoNuHoangLyLy_2123110414\\Models\\SystemRoles.cs",
+              "RelativeDocumentMoniker": "DaoNuHoangLyLy_2123110414\\Models\\SystemRoles.cs",
+              "ToolTip": "D:\\DaoNuHoangLyLy_2123110414\\DaoNuHoangLyLy_2123110414\\Models\\SystemRoles.cs",
+              "RelativeToolTip": "DaoNuHoangLyLy_2123110414\\Models\\SystemRoles.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-03T09:12:01.198Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\DaoNuHoangLyLy_2123110414\\DaoNuHoangLyLy_2123110414\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "DaoNuHoangLyLy_2123110414\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\DaoNuHoangLyLy_2123110414\\DaoNuHoangLyLy_2123110414\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "DaoNuHoangLyLy_2123110414\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAFAAAAAAAAAAAAAYwGcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-02T02:07:23.285Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "DoctorSchedule.cs",
+              "DocumentMoniker": "D:\\DaoNuHoangLyLy_2123110414\\DaoNuHoangLyLy_2123110414\\Models\\DoctorSchedule.cs",
+              "RelativeDocumentMoniker": "DaoNuHoangLyLy_2123110414\\Models\\DoctorSchedule.cs",
+              "ToolTip": "D:\\DaoNuHoangLyLy_2123110414\\DaoNuHoangLyLy_2123110414\\Models\\DoctorSchedule.cs",
+              "RelativeToolTip": "DaoNuHoangLyLy_2123110414\\Models\\DoctorSchedule.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAiwB4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-02T01:59:40.881Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
