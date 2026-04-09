@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "D:\\DaoNuHoangLyLy_2123110414\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{2393DF03-2970-41CE-A093-AD028D0F2D61}|DaoNuHoangLyLy_2123110414\\DaoNuHoangLyLy_2123110414.csproj|d:\\daonuhoanglyly_2123110414\\daonuhoanglyly_2123110414\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{2393DF03-2970-41CE-A093-AD028D0F2D61}|DaoNuHoangLyLy_2123110414\\DaoNuHoangLyLy_2123110414.csproj|solutionrelative:daonuhoanglyly_2123110414\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{2393DF03-2970-41CE-A093-AD028D0F2D61}|DaoNuHoangLyLy_2123110414\\DaoNuHoangLyLy_2123110414.csproj|d:\\daonuhoanglyly_2123110414\\daonuhoanglyly_2123110414\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2393DF03-2970-41CE-A093-AD028D0F2D61}|DaoNuHoangLyLy_2123110414\\DaoNuHoangLyLy_2123110414.csproj|solutionrelative:daonuhoanglyly_2123110414\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -166,11 +170,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
+              "Title": ".gitignore",
+              "DocumentMoniker": "D:\\DaoNuHoangLyLy_2123110414\\DaoNuHoangLyLy_2123110414\\.gitignore",
+              "RelativeDocumentMoniker": "DaoNuHoangLyLy_2123110414\\.gitignore",
+              "ToolTip": "D:\\DaoNuHoangLyLy_2123110414\\DaoNuHoangLyLy_2123110414\\.gitignore",
+              "RelativeToolTip": "DaoNuHoangLyLy_2123110414\\.gitignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-04-03T18:02:24.774Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "20260403170041_InitClinicBookingApi.cs",
               "DocumentMoniker": "D:\\DaoNuHoangLyLy_2123110414\\DaoNuHoangLyLy_2123110414\\Migrations\\20260403170041_InitClinicBookingApi.cs",
               "RelativeDocumentMoniker": "DaoNuHoangLyLy_2123110414\\Migrations\\20260403170041_InitClinicBookingApi.cs",
@@ -183,7 +200,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "ScheduleController.cs",
               "DocumentMoniker": "D:\\DaoNuHoangLyLy_2123110414\\DaoNuHoangLyLy_2123110414\\Controllers\\ScheduleController.cs",
               "RelativeDocumentMoniker": "DaoNuHoangLyLy_2123110414\\Controllers\\ScheduleController.cs",
@@ -196,20 +213,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\DaoNuHoangLyLy_2123110414\\DaoNuHoangLyLy_2123110414\\Program.cs",
               "RelativeDocumentMoniker": "DaoNuHoangLyLy_2123110414\\Program.cs",
               "ToolTip": "D:\\DaoNuHoangLyLy_2123110414\\DaoNuHoangLyLy_2123110414\\Program.cs",
               "RelativeToolTip": "DaoNuHoangLyLy_2123110414\\Program.cs",
-              "ViewState": "AgIAAF8AAAAAAAAAAAAswG8AAAA+AAAAAAAAAA==",
+              "ViewState": "AgIAAGoAAAAAAAAAAAAcwG8AAAA+AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-02T03:14:43.808Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\DaoNuHoangLyLy_2123110414\\DaoNuHoangLyLy_2123110414\\appsettings.json",
               "RelativeDocumentMoniker": "DaoNuHoangLyLy_2123110414\\appsettings.json",
@@ -222,7 +239,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "IScheduleService.cs",
               "DocumentMoniker": "D:\\DaoNuHoangLyLy_2123110414\\DaoNuHoangLyLy_2123110414\\Services\\IScheduleService.cs",
               "RelativeDocumentMoniker": "DaoNuHoangLyLy_2123110414\\Services\\IScheduleService.cs",
@@ -235,7 +252,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "ScheduleService.cs",
               "DocumentMoniker": "D:\\DaoNuHoangLyLy_2123110414\\DaoNuHoangLyLy_2123110414\\Services\\ScheduleService.cs",
               "RelativeDocumentMoniker": "DaoNuHoangLyLy_2123110414\\Services\\ScheduleService.cs",
@@ -248,7 +265,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "CreateDoctorDTOs.cs",
               "DocumentMoniker": "D:\\DaoNuHoangLyLy_2123110414\\DaoNuHoangLyLy_2123110414\\DTOs\\CreateDoctorDTOs.cs",
               "RelativeDocumentMoniker": "DaoNuHoangLyLy_2123110414\\DTOs\\CreateDoctorDTOs.cs",
@@ -261,7 +278,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "CreateScheduleDTOs.cs",
               "DocumentMoniker": "D:\\DaoNuHoangLyLy_2123110414\\DaoNuHoangLyLy_2123110414\\DTOs\\CreateScheduleDTOs.cs",
               "RelativeDocumentMoniker": "DaoNuHoangLyLy_2123110414\\DTOs\\CreateScheduleDTOs.cs",
@@ -274,7 +291,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "AppointmentController.cs",
               "DocumentMoniker": "D:\\DaoNuHoangLyLy_2123110414\\DaoNuHoangLyLy_2123110414\\Controllers\\AppointmentController.cs",
               "RelativeDocumentMoniker": "DaoNuHoangLyLy_2123110414\\Controllers\\AppointmentController.cs",
@@ -287,7 +304,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "DoctorController.cs",
               "DocumentMoniker": "D:\\DaoNuHoangLyLy_2123110414\\DaoNuHoangLyLy_2123110414\\Controllers\\DoctorController.cs",
               "RelativeDocumentMoniker": "DaoNuHoangLyLy_2123110414\\Controllers\\DoctorController.cs",
@@ -300,7 +317,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "SpecialtyController.cs",
               "DocumentMoniker": "D:\\DaoNuHoangLyLy_2123110414\\DaoNuHoangLyLy_2123110414\\Controllers\\SpecialtyController.cs",
               "RelativeDocumentMoniker": "DaoNuHoangLyLy_2123110414\\Controllers\\SpecialtyController.cs",
@@ -313,7 +330,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "AuthController.cs",
               "DocumentMoniker": "D:\\DaoNuHoangLyLy_2123110414\\DaoNuHoangLyLy_2123110414\\Controllers\\AuthController.cs",
               "RelativeDocumentMoniker": "DaoNuHoangLyLy_2123110414\\Controllers\\AuthController.cs",
@@ -326,7 +343,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "AppointmentService.cs",
               "DocumentMoniker": "D:\\DaoNuHoangLyLy_2123110414\\DaoNuHoangLyLy_2123110414\\Services\\AppointmentService.cs",
               "RelativeDocumentMoniker": "DaoNuHoangLyLy_2123110414\\Services\\AppointmentService.cs",
@@ -339,7 +356,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "TimeSlotService.cs",
               "DocumentMoniker": "D:\\DaoNuHoangLyLy_2123110414\\DaoNuHoangLyLy_2123110414\\Services\\TimeSlotService.cs",
               "RelativeDocumentMoniker": "DaoNuHoangLyLy_2123110414\\Services\\TimeSlotService.cs",
@@ -352,7 +369,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "DoctorService.cs",
               "DocumentMoniker": "D:\\DaoNuHoangLyLy_2123110414\\DaoNuHoangLyLy_2123110414\\Services\\DoctorService.cs",
               "RelativeDocumentMoniker": "DaoNuHoangLyLy_2123110414\\Services\\DoctorService.cs",
@@ -365,7 +382,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 19,
               "Title": "SpecialtyService.cs",
               "DocumentMoniker": "D:\\DaoNuHoangLyLy_2123110414\\DaoNuHoangLyLy_2123110414\\Services\\SpecialtyService.cs",
               "RelativeDocumentMoniker": "DaoNuHoangLyLy_2123110414\\Services\\SpecialtyService.cs",
@@ -378,7 +395,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 21,
               "Title": "AuthService.cs",
               "DocumentMoniker": "D:\\DaoNuHoangLyLy_2123110414\\DaoNuHoangLyLy_2123110414\\Services\\AuthService.cs",
               "RelativeDocumentMoniker": "DaoNuHoangLyLy_2123110414\\Services\\AuthService.cs",
@@ -391,7 +408,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 22,
               "Title": "IAuthService.cs",
               "DocumentMoniker": "D:\\DaoNuHoangLyLy_2123110414\\DaoNuHoangLyLy_2123110414\\Services\\IAuthService.cs",
               "RelativeDocumentMoniker": "DaoNuHoangLyLy_2123110414\\Services\\IAuthService.cs",
@@ -404,7 +421,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "IAppointmentService.cs",
               "DocumentMoniker": "D:\\DaoNuHoangLyLy_2123110414\\DaoNuHoangLyLy_2123110414\\Services\\IAppointmentService.cs",
               "RelativeDocumentMoniker": "DaoNuHoangLyLy_2123110414\\Services\\IAppointmentService.cs",
@@ -417,7 +434,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 24,
               "Title": "UpdateSpecialtyDTOs.cs",
               "DocumentMoniker": "D:\\DaoNuHoangLyLy_2123110414\\DaoNuHoangLyLy_2123110414\\DTOs\\UpdateSpecialtyDTOs.cs",
               "RelativeDocumentMoniker": "DaoNuHoangLyLy_2123110414\\DTOs\\UpdateSpecialtyDTOs.cs",
@@ -430,7 +447,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "ITimeSlotService.cs",
               "DocumentMoniker": "D:\\DaoNuHoangLyLy_2123110414\\DaoNuHoangLyLy_2123110414\\Services\\ITimeSlotService.cs",
               "RelativeDocumentMoniker": "DaoNuHoangLyLy_2123110414\\Services\\ITimeSlotService.cs",
@@ -443,7 +460,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 25,
               "Title": "CreateSpecialtyDTOs.cs",
               "DocumentMoniker": "D:\\DaoNuHoangLyLy_2123110414\\DaoNuHoangLyLy_2123110414\\DTOs\\CreateSpecialtyDTOs.cs",
               "RelativeDocumentMoniker": "DaoNuHoangLyLy_2123110414\\DTOs\\CreateSpecialtyDTOs.cs",
@@ -456,7 +473,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 18,
               "Title": "IDoctorService.cs",
               "DocumentMoniker": "D:\\DaoNuHoangLyLy_2123110414\\DaoNuHoangLyLy_2123110414\\Services\\IDoctorService.cs",
               "RelativeDocumentMoniker": "DaoNuHoangLyLy_2123110414\\Services\\IDoctorService.cs",
@@ -469,7 +486,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 26,
               "Title": "AuthResponseDTOs.cs",
               "DocumentMoniker": "D:\\DaoNuHoangLyLy_2123110414\\DaoNuHoangLyLy_2123110414\\DTOs\\AuthResponseDTOs.cs",
               "RelativeDocumentMoniker": "DaoNuHoangLyLy_2123110414\\DTOs\\AuthResponseDTOs.cs",
@@ -482,7 +499,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 20,
               "Title": "ISpecialtyService.cs",
               "DocumentMoniker": "D:\\DaoNuHoangLyLy_2123110414\\DaoNuHoangLyLy_2123110414\\Services\\ISpecialtyService.cs",
               "RelativeDocumentMoniker": "DaoNuHoangLyLy_2123110414\\Services\\ISpecialtyService.cs",
@@ -495,7 +512,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 31,
               "Title": "TimeSlot.cs",
               "DocumentMoniker": "D:\\DaoNuHoangLyLy_2123110414\\DaoNuHoangLyLy_2123110414\\Models\\TimeSlot.cs",
               "RelativeDocumentMoniker": "DaoNuHoangLyLy_2123110414\\Models\\TimeSlot.cs",
@@ -508,7 +525,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 30,
               "Title": "LoginDTOs.cs",
               "DocumentMoniker": "D:\\DaoNuHoangLyLy_2123110414\\DaoNuHoangLyLy_2123110414\\DTOs\\LoginDTOs.cs",
               "RelativeDocumentMoniker": "DaoNuHoangLyLy_2123110414\\DTOs\\LoginDTOs.cs",
@@ -521,7 +538,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 23,
               "Title": "ServiceResult.cs",
               "DocumentMoniker": "D:\\DaoNuHoangLyLy_2123110414\\DaoNuHoangLyLy_2123110414\\Services\\ServiceResult.cs",
               "RelativeDocumentMoniker": "DaoNuHoangLyLy_2123110414\\Services\\ServiceResult.cs",
@@ -534,7 +551,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 32,
               "Title": "Appointment.cs",
               "DocumentMoniker": "D:\\DaoNuHoangLyLy_2123110414\\DaoNuHoangLyLy_2123110414\\Models\\Appointment.cs",
               "RelativeDocumentMoniker": "DaoNuHoangLyLy_2123110414\\Models\\Appointment.cs",
@@ -547,7 +564,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 28,
               "Title": "ApplicationUser.cs",
               "DocumentMoniker": "D:\\DaoNuHoangLyLy_2123110414\\DaoNuHoangLyLy_2123110414\\Models\\ApplicationUser.cs",
               "RelativeDocumentMoniker": "DaoNuHoangLyLy_2123110414\\Models\\ApplicationUser.cs",
@@ -560,7 +577,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 27,
               "Title": "BookAppointmentDTOs.cs",
               "DocumentMoniker": "D:\\DaoNuHoangLyLy_2123110414\\DaoNuHoangLyLy_2123110414\\DTOs\\BookAppointmentDTOs.cs",
               "RelativeDocumentMoniker": "DaoNuHoangLyLy_2123110414\\DTOs\\BookAppointmentDTOs.cs",
@@ -573,7 +590,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 33,
               "Title": "PatientProfile.cs",
               "DocumentMoniker": "D:\\DaoNuHoangLyLy_2123110414\\DaoNuHoangLyLy_2123110414\\Models\\PatientProfile.cs",
               "RelativeDocumentMoniker": "DaoNuHoangLyLy_2123110414\\Models\\PatientProfile.cs",
@@ -586,7 +603,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 34,
               "Title": "DoctorProfile.cs",
               "DocumentMoniker": "D:\\DaoNuHoangLyLy_2123110414\\DaoNuHoangLyLy_2123110414\\Models\\DoctorProfile.cs",
               "RelativeDocumentMoniker": "DaoNuHoangLyLy_2123110414\\Models\\DoctorProfile.cs",
@@ -599,7 +616,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 35,
               "Title": "Specialty.cs",
               "DocumentMoniker": "D:\\DaoNuHoangLyLy_2123110414\\DaoNuHoangLyLy_2123110414\\Models\\Specialty.cs",
               "RelativeDocumentMoniker": "DaoNuHoangLyLy_2123110414\\Models\\Specialty.cs",
@@ -612,7 +629,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 36,
               "Title": "SystemStatuses.cs",
               "DocumentMoniker": "D:\\DaoNuHoangLyLy_2123110414\\DaoNuHoangLyLy_2123110414\\Models\\SystemStatuses.cs",
               "RelativeDocumentMoniker": "DaoNuHoangLyLy_2123110414\\Models\\SystemStatuses.cs",
@@ -625,7 +642,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 29,
               "Title": "RegisterDTOs.cs",
               "DocumentMoniker": "D:\\DaoNuHoangLyLy_2123110414\\DaoNuHoangLyLy_2123110414\\DTOs\\RegisterDTOs.cs",
               "RelativeDocumentMoniker": "DaoNuHoangLyLy_2123110414\\DTOs\\RegisterDTOs.cs",
@@ -638,7 +655,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 37,
               "Title": "SystemRoles.cs",
               "DocumentMoniker": "D:\\DaoNuHoangLyLy_2123110414\\DaoNuHoangLyLy_2123110414\\Models\\SystemRoles.cs",
               "RelativeDocumentMoniker": "DaoNuHoangLyLy_2123110414\\Models\\SystemRoles.cs",
@@ -651,7 +668,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 38,
               "Title": "ApplicationDbContext.cs",
               "DocumentMoniker": "D:\\DaoNuHoangLyLy_2123110414\\DaoNuHoangLyLy_2123110414\\Data\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "DaoNuHoangLyLy_2123110414\\Data\\ApplicationDbContext.cs",
@@ -664,7 +681,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 39,
               "Title": "DoctorSchedule.cs",
               "DocumentMoniker": "D:\\DaoNuHoangLyLy_2123110414\\DaoNuHoangLyLy_2123110414\\Models\\DoctorSchedule.cs",
               "RelativeDocumentMoniker": "DaoNuHoangLyLy_2123110414\\Models\\DoctorSchedule.cs",

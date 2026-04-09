@@ -1,4 +1,5 @@
 ﻿using System.Text;
+using System.Text.Json.Serialization;
 using DaoNuHoangLyLy_2123110414.Data;
 using DaoNuHoangLyLy_2123110414.Models;
 using DaoNuHoangLyLy_2123110414.Services;
@@ -11,7 +12,11 @@ var builder = WebApplication.CreateBuilder(args);
 
 #region Add Services
 
-builder.Services.AddControllers();
+builder.Services.AddControllers()
+    .AddJsonOptions(options =>
+    {
+        options.JsonSerializerOptions.ReferenceHandler = ReferenceHandler.IgnoreCycles;
+    });
 
 builder.Services.AddDbContext<ApplicationDbContext>(options =>
     options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
@@ -117,10 +122,11 @@ builder.Services.AddSwaggerGen(options =>
                     Id = "Bearer"
                 }
             },
-            new string[] {}
+            Array.Empty<string>()
         }
     });
 });
+
 #endregion
 
 var app = builder.Build();
