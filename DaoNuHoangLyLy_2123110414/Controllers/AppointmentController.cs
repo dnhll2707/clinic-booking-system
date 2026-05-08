@@ -1,4 +1,4 @@
-﻿using System.Security.Claims;
+using System.Security.Claims;
 using DaoNuHoangLyLy_2123110414.DTOs;
 using DaoNuHoangLyLy_2123110414.Models;
 using DaoNuHoangLyLy_2123110414.Services;
@@ -53,7 +53,7 @@ namespace DaoNuHoangLyLy_2123110414.Controllers
             return Ok(data);
         }
 
-        [Authorize(Roles = "Admin")]
+        [Authorize(Roles = "Admin,Doctor")]
         [HttpGet("admin")]
         public async Task<IActionResult> GetAllForAdmin([FromQuery] string? status, [FromQuery] DateTime? date, [FromQuery] int? doctorId)
         {
@@ -125,7 +125,7 @@ namespace DaoNuHoangLyLy_2123110414.Controllers
             return Ok(result);
         }
 
-        [Authorize(Roles = "Doctor,Admin")]
+        [Authorize(Roles = "Admin,Doctor")]
         [HttpPatch("{appointmentId:int}/complete")]
         public async Task<IActionResult> Complete(int appointmentId)
         {
@@ -142,7 +142,7 @@ namespace DaoNuHoangLyLy_2123110414.Controllers
             return Ok(result);
         }
 
-        [Authorize(Roles = "Doctor,Admin")]
+        [Authorize(Roles = "Admin,Doctor")]
         [HttpPatch("{appointmentId:int}/noshow")]
         public async Task<IActionResult> NoShow(int appointmentId)
         {

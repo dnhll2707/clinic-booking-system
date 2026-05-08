@@ -1,4 +1,4 @@
-﻿using DaoNuHoangLyLy_2123110414.Data;
+using DaoNuHoangLyLy_2123110414.Data;
 using DaoNuHoangLyLy_2123110414.DTOs;
 using DaoNuHoangLyLy_2123110414.Models;
 using Microsoft.EntityFrameworkCore;
@@ -87,19 +87,36 @@ namespace DaoNuHoangLyLy_2123110414.Services
             try
             {
                 var slot = await _context.TimeSlots
+                    .Include(x => x.DoctorProfile)
+                    .Include(x => x.DoctorSchedule)
                     .FirstOrDefaultAsync(x => x.Id == model.TimeSlotId);
 
                 if (slot == null)
                     return ServiceResult.Fail("Khung giờ không tồn tại.");
 
+                if (slot.DoctorProfile == null || !slot.DoctorProfile.IsActive)
+                    return ServiceResult.Fail("Bác sĩ của khung giờ này đang bị khóa.");
+
+                if (slot.DoctorSchedule == null || !slot.DoctorSchedule.IsActive)
+                    return ServiceResult.Fail("Lịch làm việc của khung giờ này đang bị khóa.");
+
                 if (slot.SlotStatus != SlotStatuses.Available)
                     return ServiceResult.Fail("Khung giờ này không còn trống.");
 
-                var exists = await _context.Appointments
-                    .AnyAsync(x => x.TimeSlotId == slot.Id);
+                // Block duplicate: no active (Pending/Confirmed/Completed) appointment on this slot
+                var existingAppointment = await _context.Appointments
+                    .Where(x => x.TimeSlotId == slot.Id &&
+                        (x.AppointmentStatus == AppointmentStatuses.Pending ||
+                         x.AppointmentStatus == AppointmentStatuses.Confirmed ||
+                         x.AppointmentStatus == AppointmentStatuses.Completed))
+                    .FirstOrDefaultAsync();
 
-                if (exists)
-                    return ServiceResult.Fail("Khung giờ này vừa được người khác đặt.");
+                if (existingAppointment != null)
+                    return ServiceResult.Fail("Khung giờ này đã được đặt.");
+
+                var slotStart = slot.SlotDate.Date.Add(slot.StartTime);
+                if (slotStart <= DateTime.Now)
+                    return ServiceResult.Fail("Không thể đặt khung giờ trong quá khứ.");
 
                 var appointment = new Appointment
                 {
@@ -116,7 +133,6 @@ namespace DaoNuHoangLyLy_2123110414.Services
                 slot.SlotStatus = SlotStatuses.Booked;
 
                 _context.Appointments.Add(appointment);
-                _context.TimeSlots.Update(slot);
 
                 await _context.SaveChangesAsync();
                 await transaction.CommitAsync();
@@ -242,7 +258,6 @@ namespace DaoNuHoangLyLy_2123110414.Services
                 return ServiceResult.Fail("Chỉ lịch Confirmed mới được cập nhật NoShow.");
 
             appointment.AppointmentStatus = AppointmentStatuses.NoShow;
-            appointment.CompletedAt = DateTime.UtcNow;
 
             await _context.SaveChangesAsync();
 
@@ -280,7 +295,7 @@ namespace DaoNuHoangLyLy_2123110414.Services
 
         private static string GenerateAppointmentCode()
         {
-            return $"APT-{DateTime.UtcNow:yyyyMMddHHmmss}-{Random.Shared.Next(100, 999)}";
+            return $"APT-{DateTime.UtcNow:yyyyMMddHHmmss}-{Guid.NewGuid():N}"[..30].ToUpperInvariant();
         }
     }
 }

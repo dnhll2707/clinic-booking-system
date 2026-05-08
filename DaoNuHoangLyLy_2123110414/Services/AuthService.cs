@@ -70,6 +70,9 @@ namespace DaoNuHoangLyLy_2123110414.Services
             if (user == null)
                 return ServiceResult<AuthResponseDTOs>.Fail("Sai email hoặc mật khẩu.");
 
+            if (await _userManager.IsLockedOutAsync(user))
+                return ServiceResult<AuthResponseDTOs>.Fail("Tài khoản đã bị vô hiệu hóa.");
+
             var passwordValid = await _userManager.CheckPasswordAsync(user, model.Password);
             if (!passwordValid)
                 return ServiceResult<AuthResponseDTOs>.Fail("Sai email hoặc mật khẩu.");

@@ -1,8 +1,8 @@
-﻿using System.ComponentModel.DataAnnotations;
+using System.ComponentModel.DataAnnotations;
 
 namespace DaoNuHoangLyLy_2123110414.DTOs
 {
-    public class RegisterDTOs
+    public class UpdatePatientDTOs
     {
         [Required(ErrorMessage = "Vui lòng nhập họ tên bệnh nhân.")]
         [StringLength(150, ErrorMessage = "Họ tên bệnh nhân không được vượt quá 150 ký tự.")]
@@ -16,16 +16,14 @@ namespace DaoNuHoangLyLy_2123110414.DTOs
         [RegularExpression(@"^\d{10}$", ErrorMessage = "Số điện thoại phải gồm đúng 10 chữ số.")]
         public string? PhoneNumber { get; set; }
 
-        [Required(ErrorMessage = "Vui lòng nhập mật khẩu.")]
-        [MinLength(6, ErrorMessage = "Mật khẩu phải có ít nhất 6 ký tự.")]
-        public string Password { get; set; } = string.Empty;
-
-        [Required(ErrorMessage = "Vui lòng nhập lại mật khẩu.")]
-        [Compare(nameof(Password), ErrorMessage = "Mật khẩu nhập lại không khớp.")]
-        public string ConfirmPassword { get; set; } = string.Empty;
-
         public DateTime? DateOfBirth { get; set; }
+
+        [StringLength(20, ErrorMessage = "Giới tính không được vượt quá 20 ký tự.")]
         public string? Gender { get; set; }
+
+        [StringLength(500, ErrorMessage = "Địa chỉ không được vượt quá 500 ký tự.")]
         public string? Address { get; set; }
+
+        public bool IsActive { get; set; } = true;
     }
 }

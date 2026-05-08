@@ -1,4 +1,4 @@
-﻿using DaoNuHoangLyLy_2123110414.DTOs;
+using DaoNuHoangLyLy_2123110414.DTOs;
 using DaoNuHoangLyLy_2123110414.Services;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
@@ -65,6 +65,17 @@ namespace DaoNuHoangLyLy_2123110414.Controllers
         public async Task<IActionResult> Deactivate(int id)
         {
             var result = await _specialtyService.DeactivateAsync(id);
+            if (!result.Success)
+                return BadRequest(result);
+
+            return Ok(result);
+        }
+
+        [Authorize(Roles = "Admin")]
+        [HttpDelete("{id:int}")]
+        public async Task<IActionResult> Delete(int id)
+        {
+            var result = await _specialtyService.DeleteAsync(id);
             if (!result.Success)
                 return BadRequest(result);
 

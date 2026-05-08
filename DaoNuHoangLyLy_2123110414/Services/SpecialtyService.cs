@@ -1,4 +1,4 @@
-﻿using DaoNuHoangLyLy_2123110414.Data;
+using DaoNuHoangLyLy_2123110414.Data;
 using DaoNuHoangLyLy_2123110414.DTOs;
 using DaoNuHoangLyLy_2123110414.Models;
 using Microsoft.EntityFrameworkCore;
@@ -79,6 +79,22 @@ namespace DaoNuHoangLyLy_2123110414.Services
             await _context.SaveChangesAsync();
 
             return ServiceResult.Ok("Đã khóa chuyên khoa.");
+        }
+
+        public async Task<ServiceResult> DeleteAsync(int id)
+        {
+            var entity = await _context.Specialties.FirstOrDefaultAsync(x => x.Id == id);
+            if (entity == null)
+                return ServiceResult.Fail("Không tìm thấy chuyên khoa.");
+
+            var isInUse = await _context.DoctorProfiles.AnyAsync(x => x.SpecialtyId == id);
+            if (isInUse)
+                return ServiceResult.Fail("Không thể xóa chuyên khoa đang được sử dụng bởi bác sĩ.");
+
+            _context.Specialties.Remove(entity);
+            await _context.SaveChangesAsync();
+
+            return ServiceResult.Ok("Xóa chuyên khoa thành công.");
         }
     }
 }

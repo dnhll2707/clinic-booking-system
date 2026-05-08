@@ -1,4 +1,4 @@
-﻿using DaoNuHoangLyLy_2123110414.DTOs;
+using DaoNuHoangLyLy_2123110414.DTOs;
 using DaoNuHoangLyLy_2123110414.Services;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
@@ -18,6 +18,17 @@ namespace DaoNuHoangLyLy_2123110414.Controllers
         {
             _scheduleService = scheduleService;
             _timeSlotService = timeSlotService;
+        }
+
+        [Authorize(Roles = "Admin")]
+        [HttpGet("admin")]
+        public async Task<IActionResult> GetAllForAdmin(
+            [FromQuery] int? doctorId,
+            [FromQuery] DateTime? date,
+            [FromQuery] bool activeOnly = true)
+        {
+            var data = await _scheduleService.GetAllAsync(doctorId, date, activeOnly);
+            return Ok(data);
         }
 
         [Authorize(Roles = "Admin")]
@@ -46,6 +57,28 @@ namespace DaoNuHoangLyLy_2123110414.Controllers
         {
             var data = await _timeSlotService.GetAvailableByDoctorAndDateAsync(doctorId, date);
             return Ok(data);
+        }
+
+        [Authorize(Roles = "Admin")]
+        [HttpPatch("{scheduleId:int}/deactivate")]
+        public async Task<IActionResult> Deactivate(int scheduleId)
+        {
+            var result = await _scheduleService.DeactivateAsync(scheduleId);
+            if (!result.Success)
+                return BadRequest(result);
+
+            return Ok(result);
+        }
+
+        [Authorize(Roles = "Admin")]
+        [HttpDelete("{scheduleId:int}")]
+        public async Task<IActionResult> Delete(int scheduleId)
+        {
+            var result = await _scheduleService.DeleteAsync(scheduleId);
+            if (!result.Success)
+                return BadRequest(result);
+
+            return Ok(result);
         }
     }
 }
